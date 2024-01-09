@@ -1,0 +1,6 @@
+E:\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+E:\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+E:\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+E:\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+E:\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+E:\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb
