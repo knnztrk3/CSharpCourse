@@ -1,0 +1,6 @@
+E:\repos\CSharpCourse\Classes\bin\Debug\Classes.exe.config
+E:\repos\CSharpCourse\Classes\bin\Debug\Classes.exe
+E:\repos\CSharpCourse\Classes\bin\Debug\Classes.pdb
+E:\repos\CSharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+E:\repos\CSharpCourse\Classes\obj\Debug\Classes.exe
+E:\repos\CSharpCourse\Classes\obj\Debug\Classes.pdb
