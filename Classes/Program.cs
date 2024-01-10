@@ -20,6 +20,22 @@ namespace Classes
 			productManager.Update();
 			productManager.Delete();
 
+			Customer customer = new Customer();
+			customer.Id = 1;
+			customer.FirstName = "Joe";
+			customer.LastName = "Williams";
+			customer.City = "New York";
+
+			Customer customer2 = new Customer()
+			{
+				Id = 1,
+				FirstName = "David",
+				LastName = "Miller",
+				City = "San Francisco"
+			};
+
+			Console.WriteLine(customer2.FirstName);
+
 			Console.ReadLine();
 		}
 	}
