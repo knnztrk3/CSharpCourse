@@ -1,7 +1,0 @@
-E:\repos\CSharpCourse\VeriTipleriTypesAndVeriables\bin\Debug\VeriTipleriTypesAndVeriables.exe.config
-E:\repos\CSharpCourse\VeriTipleriTypesAndVeriables\bin\Debug\VeriTipleriTypesAndVeriables.exe
-E:\repos\CSharpCourse\VeriTipleriTypesAndVeriables\bin\Debug\VeriTipleriTypesAndVeriables.pdb
-E:\repos\CSharpCourse\VeriTipleriTypesAndVeriables\obj\Debug\VeriTipleriTypesAndVeriables.csproj.AssemblyReference.cache
-E:\repos\CSharpCourse\VeriTipleriTypesAndVeriables\obj\Debug\VeriTipleriTypesAndVeriables.csproj.CoreCompileInputs.cache
-E:\repos\CSharpCourse\VeriTipleriTypesAndVeriables\obj\Debug\VeriTipleriTypesAndVeriables.exe
-E:\repos\CSharpCourse\VeriTipleriTypesAndVeriables\obj\Debug\VeriTipleriTypesAndVeriables.pdb
