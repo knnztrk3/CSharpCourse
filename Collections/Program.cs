@@ -14,7 +14,39 @@ namespace Collections
 			//ArrayList();
 			//List();
 
+			Dictionary<string, string> dictionary = new Dictionary<string, string>();
+			dictionary.Add("Book", "Kitap");
+			dictionary.Add("Table", "Tablo");
+			dictionary.Add("Computer", "Bilgisayar");
 
+			Dictionary<int, Customer> dictionary2 = new Dictionary<int, Customer>();
+			dictionary2.Add(10, new Customer
+			{
+				id = 1,
+				firstName = "Joe"
+			});
+
+			dictionary2.Add(11, new Customer
+			{
+				id = 2,
+				firstName = "James"
+			});
+
+			foreach (var item in dictionary2)
+			{
+				Console.WriteLine(item.Key + item.Value.firstName);
+			}
+
+			//Console.WriteLine(dictionary["Table"]);
+			//Console.WriteLine(dictionary["Glass"]);
+
+			foreach (var item in dictionary)
+			{
+				Console.WriteLine(item.Value);
+			}
+
+			Console.WriteLine(dictionary.ContainsKey("Glass"));
+			Console.WriteLine(dictionary.ContainsKey("Table"));
 
 			Console.ReadLine();
 		}
